@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋, My name is Ahror
+#### I am Android Developer
+I make projects just for fun, especially ui, ux, and design in Kotlin.
 
-I'm Ahror Abdumajidov from Uzbekistan, and I do content on Android Development. I really enjoy learning languages and frameworks like Kotlin, as well as work in Android Studio. I also enjoy ui, ux, and design in general. You can check out my instagram at ig.me/aahrorr_
+Skills: JS/ Kotlin
 
-[![aahrorr's GitHub stats](https://github-readme-stats.vercel.app/api?username=aahrorr)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Android Development  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aahrorr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aahrorr_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/aahrorr)  
