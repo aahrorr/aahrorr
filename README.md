@@ -9,3 +9,5 @@ Skills: JS/ Kotlin
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aahrorr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aahrorr_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/aahrorr)  
+
+[![Ahror's GitHub stats](https://github-readme-stats.vercel.app/api?username=aahrorr)](https://github.com/anuraghazra/github-readme-stats)
